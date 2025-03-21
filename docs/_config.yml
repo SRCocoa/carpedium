@@ -1,3 +1,8 @@
 title: Carpedium Official Website
 description: Made for the upcoming game Carpedium
 theme: minima
+minima:
+  skin: solarized-dark
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
